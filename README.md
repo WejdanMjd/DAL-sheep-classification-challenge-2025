@@ -1,5 +1,5 @@
 # DAL-sheep-classification-challenge-2025
-![Eid Al-Adha Sheep Classification](https://www.kaggle.com/competitions/104830/images/header)
+![Eid Al-Adha Sheep Classification](header.png)
 
 This notebook demonstrates a complete workflow for classifying 7 Arabian sheep breeds (Naeimi, Najdi, Harri, Goat, Sawakni, Roman, Barbari) as part of the Eid Al-Adha 2025: Sheep Classification Challenge.
 
